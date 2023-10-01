@@ -98,8 +98,8 @@
                 <td>
                     <center><h1><font color="#3F2305">ENHYPEN</font></h1>
                         <img src="c:\Users\Zahra Nabila Adhwa\Downloads\[ 090623 ].jpeg" width="85%">
-                        <br>
                     </center>
+                    <br>
                 </td>
             </tr>
             <tr>
