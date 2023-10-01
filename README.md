@@ -1,5 +1,3 @@
-# pacarjake.github.io
-pacar aku
 <html>
     <head>
         <title>Biodata</title>
@@ -12,7 +10,7 @@ pacar aku
                     <br><br><br>
                     <center><font color="#3F2305" size="20" face="times new roman">BIODATA</font></center>
                     <center><font color="#3F2305" size="5" face="times new roman">Profil dan Biodata Jake Enhypen</font></center>
-                </br></br>
+                <br><br>
                 </td>
             </tr>
             <tr>
